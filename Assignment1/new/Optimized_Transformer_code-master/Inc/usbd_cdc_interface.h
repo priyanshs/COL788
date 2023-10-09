@@ -1,0 +1,30 @@
+#ifndef __USBD_CDC_IF_H
+#define __USBD_CDC_IF_H
+
+#include "C:\Users\rashu\Downloads\STSW-STLKT01_V2.2.0\STSW-STLKT01_V2.2.0\Middlewares\ST\STM32_USB_Device_Library\Class\CDC\Inc\usbd_cdc.h"
+
+#define USB_RxBufferDim                         2048
+
+/* Definition for TIMx clock resources */
+#define TIMx                             TIM3
+#define TIMx_CLK_ENABLE                  __HAL_RCC_TIM3_CLK_ENABLE
+#define TIMx_FORCE_RESET()               __HAL_RCC_USART3_FORCE_RESET()
+#define TIMx_RELEASE_RESET()             __HAL_RCC_USART3_RELEASE_RESET()
+
+/* Definition for TIMx's NVIC */
+#define TIMx_IRQn                        TIM3_IRQn
+#define TIMx_IRQHandler                  TIM3_IRQHandler
+
+/* Periodically, the state of the buffer "UserTxBuffer" is checked.
+   The period depends on CDC_POLLING_INTERVAL */
+#define CDC_POLLING_INTERVAL             5 /* in ms. The max is 65 and the min is 1 */
+
+extern USBD_CDC_ItfTypeDef  USBD_CDC_fops;
+
+/* Exported macro ------------------------------------------------------------*/
+/* Exported functions ------------------------------------------------------- */
+uint8_t CDC_Fill_Buffer(uint8_t* Buf, uint32_t TotalLen);
+void CDC_TIM_PeriodElapsedCallback(TIM_HandleTypeDef *htim);
+#endif /* __USBD_CDC_IF_H */
+
+/************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
