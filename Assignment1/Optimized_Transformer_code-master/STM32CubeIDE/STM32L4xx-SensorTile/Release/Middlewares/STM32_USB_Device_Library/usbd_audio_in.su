@@ -1,0 +1,15 @@
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:313:17:USBD_AUDIO_GetCfgDesc	0	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:381:16:USBD_AUDIO_EP0_RxReady	8	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:403:16:USBD_AUDIO_EP0_TxReady	0	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:446:16:USBD_AUDIO_DataOut	0	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:456:17:USBD_AUDIO_GetDeviceQualifierDesc	0	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:325:16:USBD_AUDIO_DataIn	32	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:221:16:USBD_AUDIO_DeInit	8	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:183:16:USBD_AUDIO_Init	24	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:424:16:USBD_AUDIO_IsoINIncomplete	0	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:239:16:USBD_AUDIO_Setup	24	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:435:16:USBD_AUDIO_IsoOutIncomplete	0	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:413:16:USBD_AUDIO_SOF	0	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:571:9:USBD_AUDIO_Data_Transfer	32	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:634:9:USBD_AUDIO_RegisterInterface	0	static
+/home/dell/COL788/COL788/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Src/usbd_audio_in.c:650:6:USBD_AUDIO_Init_Microphone_Descriptor	28	static
