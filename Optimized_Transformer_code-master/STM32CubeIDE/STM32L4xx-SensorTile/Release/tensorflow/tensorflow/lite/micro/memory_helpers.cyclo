@@ -1,0 +1,35 @@
+/opt/st/stm32cubeide_1.13.2/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.linux64_1.1.1.202309131626/tools/arm-none-eabi/include/c++/11.3.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:2418:18:const uint8_t* flatbuffers::Table::GetVTable() const	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:2424:13:flatbuffers::voffset_t flatbuffers::Table::GetOptionalFieldOffset(flatbuffers::voffset_t) const	2
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/schema/schema_generated.h:3584:39:const flatbuffers::Vector<long int>* tflite::Tensor::shape() const	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/schema/schema_generated.h:3587:22:tflite::TensorType tflite::Tensor::type() const	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:137:3:tflite::RuntimeShape::RuntimeShape()	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:156:3:tflite::RuntimeShape::RuntimeShape(int, const int32*)	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:178:3:tflite::RuntimeShape::~RuntimeShape()	3
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:188:16:int32 tflite::RuntimeShape::DimensionsCount() const	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:204:17:int32* tflite::RuntimeShape::DimsData()	2
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:213:15:void tflite::RuntimeShape::Resize(int)	5
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:231:15:void tflite::RuntimeShape::ReplaceWith(int, const int32*)	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/tensor_ctypes.h:34:21:tflite::RuntimeShape tflite::GetTensorShape(const TfLiteTensor*)	2
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_helpers.cc:30:10:uint8_t* tflite::AlignPointerUp(uint8_t*, size_t)	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_helpers.cc:37:10:uint8_t* tflite::AlignPointerDown(uint8_t*, size_t)	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_helpers.cc:44:8:size_t tflite::AlignSizeUp(size_t, size_t)	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_helpers.cc:49:14:TfLiteStatus tflite::TfLiteTypeSizeOf(TfLiteType, size_t*)	9
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_helpers.cc:81:14:TfLiteStatus tflite::BytesRequiredForTensor(const tflite::Tensor&, size_t*, size_t*, tflite::ErrorReporter*)	5
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_helpers.cc:101:14:TfLiteStatus tflite::AllocateOutputDimensionsFromInput(TfLiteContext*, const TfLiteTensor*, const TfLiteTensor*, TfLiteTensor*)	9
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:362:24:T flatbuffers::EndianScalar(T) [with T = long unsigned int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:373:3:T flatbuffers::ReadScalar(const void*) [with T = short unsigned int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:373:3:T flatbuffers::ReadScalar(const void*) [with T = long unsigned int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:373:3:T flatbuffers::ReadScalar(const void*) [with T = long int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:2445:26:P flatbuffers::Table::GetPointer(flatbuffers::voffset_t) const [with P = const flatbuffers::Vector<long int>*]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:2434:26:T flatbuffers::Table::GetField(flatbuffers::voffset_t, T) const [with T = signed char]	2
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:247:13:flatbuffers::uoffset_t flatbuffers::Vector<T>::size() const [with T = long int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:256:15:flatbuffers::Vector<T>::return_type flatbuffers::Vector<T>::Get(flatbuffers::uoffset_t) const [with T = long int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:251:13:flatbuffers::uoffset_t flatbuffers::Vector<T>::Length() const [with T = long int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:362:24:T flatbuffers::EndianScalar(T) [with T = long int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:362:24:T flatbuffers::EndianScalar(T) [with T = short unsigned int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:2439:26:P flatbuffers::Table::GetPointer(flatbuffers::voffset_t) [with P = const flatbuffers::Vector<long int>*]	2
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:373:3:T flatbuffers::ReadScalar(const void*) [with T = signed char]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:104:22:static flatbuffers::IndirectHelper<T>::return_type flatbuffers::IndirectHelper<T>::Read(const uint8_t*, flatbuffers::uoffset_t) [with T = long int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:334:18:const uint8_t* flatbuffers::Vector<T>::Data() const [with T = long int]	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:362:24:T flatbuffers::EndianScalar(T) [with T = signed char]	1

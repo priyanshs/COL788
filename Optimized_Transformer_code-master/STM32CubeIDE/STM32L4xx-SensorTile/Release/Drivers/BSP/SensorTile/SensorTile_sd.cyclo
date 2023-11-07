@@ -1,0 +1,8 @@
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_sd.c:627:16:SD_SendCmd	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_sd.c:151:9:BSP_SD_Init	12
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_sd.c:185:9:BSP_SD_GetCardInfo	8
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_sd.c:210:9:BSP_SD_ReadBlocks	8
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_sd.c:291:9:BSP_SD_WriteBlocks	11
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_sd.c:374:6:HAL_SPI_TxCpltCallback	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_sd.c:700:9:BSP_SD_GetCardState	1
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_sd.c:778:9:BSP_SD_Erase	4

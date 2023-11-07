@@ -1,0 +1,7 @@
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:755:6:USBD_CtlError.constprop	8	static
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:94:20:USBD_StdDevReq	32	static
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:155:20:USBD_StdItfReq	16	static
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:200:20:USBD_StdEPReq	16	static
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:728:6:USBD_ParseSetupRequest	0	static
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:755:6:USBD_CtlError	8	static
+/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c:770:6:USBD_GetString	12	static

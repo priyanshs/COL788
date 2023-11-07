@@ -1,0 +1,6 @@
+../AudioLoop/User/usbd_cdc_interface.c:94:15:CDC_Itf_DeInit	1
+../AudioLoop/User/usbd_cdc_interface.c:108:15:CDC_Itf_Control	3
+../AudioLoop/User/usbd_cdc_interface.c:231:15:CDC_Itf_Receive	1
+../AudioLoop/User/usbd_cdc_interface.c:58:15:CDC_Itf_Init	3
+../AudioLoop/User/usbd_cdc_interface.c:174:9:CDC_Fill_Buffer	2
+../AudioLoop/User/usbd_cdc_interface.c:191:6:CDC_TIM_PeriodElapsedCallback	4
