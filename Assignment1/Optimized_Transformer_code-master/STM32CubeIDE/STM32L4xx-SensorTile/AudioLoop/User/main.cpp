@@ -281,12 +281,12 @@ int main( void ) {
 void run_kws()
 {
 
-  //STLBLE_PRINTF("--");
+  STLBLE_PRINTF("--");
   kws->classify();
-//  STLBLE_PRINTF("Input ")
-			  //STLBLE_PRINTF("conv1_wt: %d %d %d\r\n\n", dscnn->conv1_wt[0], dscnn->conv1_wt[1], dscnn->conv1_wt[2559]);
-			  //STLBLE_PRINTF("conv2_ds_wt: %d %d %d\r\n\n", dscnn->conv2_ds_wt[0], dscnn->conv2_ds_wt[1], dscnn->conv2_ds_wt[575]);
-			  //STLBLE_PRINTF("conv5_pw_wt: %d %d %d\r\n\n", dscnn->conv5_pw_wt[0], dscnn->conv5_pw_wt[1], dscnn->conv5_pw_wt[4095]);
+ STLBLE_PRINTF("Input ")
+			  STLBLE_PRINTF("conv1_wt: %d %d %d\r\n\n", dscnn->conv1_wt[0], dscnn->conv1_wt[1], dscnn->conv1_wt[2559]);
+			  STLBLE_PRINTF("conv2_ds_wt: %d %d %d\r\n\n", dscnn->conv2_ds_wt[0], dscnn->conv2_ds_wt[1], dscnn->conv2_ds_wt[575]);
+			  STLBLE_PRINTF("conv5_pw_wt: %d %d %d\r\n\n", dscnn->conv5_pw_wt[0], dscnn->conv5_pw_wt[1], dscnn->conv5_pw_wt[4095]);
   kws->average_predictions();
   int max_ind = kws->get_top_class(kws->averaged_output);
   if(kws->averaged_output[max_ind]>detection_threshold*128/100)
@@ -327,7 +327,6 @@ void Error_Handler( void )
 
 
 #ifdef  USE_FULL_ASSERT
-
 /**
  * @brief  Reports the name of the source file and the source line number
  *   where the assert_param error has occurred

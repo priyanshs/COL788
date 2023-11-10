@@ -1,7 +1,0 @@
-../AudioLoop/User/kws.cpp:10:1:KWS::KWS()	1
-../AudioLoop/User/kws.cpp:14:1:KWS::~KWS()	6
-../AudioLoop/User/kws.cpp:25:6:void KWS::init_kws()	1
-../AudioLoop/User/kws.cpp:43:6:void KWS::extract_features()	3
-../AudioLoop/User/kws.cpp:59:6:void KWS::classify()	1
-../AudioLoop/User/kws.cpp:66:5:int KWS::get_top_class(q7_t*)	3
-../AudioLoop/User/kws.cpp:84:6:void KWS::average_predictions()	3
