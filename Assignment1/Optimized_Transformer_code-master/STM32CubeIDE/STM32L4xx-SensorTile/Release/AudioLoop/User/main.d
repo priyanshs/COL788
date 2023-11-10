@@ -63,6 +63,7 @@ AudioLoop/User/main.o: ../AudioLoop/User/main.cpp \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_audio_if.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_cdc_interface.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/kwt.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/debug_log.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/all_ops_resolver.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/compatibility.h \
@@ -153,6 +154,7 @@ AudioLoop/User/main.o: ../AudioLoop/User/main.cpp \
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_audio_if.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_cdc_interface.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/kwt.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/debug_log.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/all_ops_resolver.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/compatibility.h:
