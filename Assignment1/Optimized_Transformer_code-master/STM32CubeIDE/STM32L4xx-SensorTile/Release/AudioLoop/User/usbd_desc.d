@@ -1,4 +1,5 @@
-AudioLoop/User/usbd_desc.o: ../AudioLoop/User/usbd_desc.c \
+AudioLoop/User/usbd_desc.o: \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_desc.c \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_conf.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h \

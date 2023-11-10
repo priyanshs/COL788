@@ -1,4 +1,34 @@
-AudioLoop/User/main.o: ../AudioLoop/User/main.cpp \
+AudioLoop/User/main.o: \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/debug_log.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/all_ops_resolver.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/compatibility.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_mutable_op_resolver.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/c/common.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/error_reporter.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/schema/schema_generated.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/compatibility.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/op_macros.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/kernels/micro_ops.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_op_resolver.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/op_resolver.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_interpreter.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/profiler.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_allocator.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/simple_memory_allocator.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/type_to_tflitetype.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/testing/micro_test.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/version.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/core/public/version.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/model_weights.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/wavfile.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/main.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/stm32l4xx_hal_conf.h \
@@ -61,35 +91,56 @@ AudioLoop/User/main.o: ../AudioLoop/User/main.cpp \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Inc/usbd_audio_in.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_audio_if.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/kws.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_cdc_interface.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/kwt.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/debug_log.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/all_ops_resolver.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/compatibility.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_mutable_op_resolver.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/c/common.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/error_reporter.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/schema/schema_generated.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/compatibility.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/op_macros.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/kernels/micro_ops.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_op_resolver.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/op_resolver.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_interpreter.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/profiler.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/tensor_ctypes.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_allocator.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/simple_memory_allocator.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/type_to_tflitetype.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/version.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/core/public/version.h
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/nn.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nnfunctions.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nnsupportfunctions.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/DSP/Include/arm_math.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/CMSIS/Include/cmsis_compiler.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/DSP/Include/arm_common_tables.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nn_tables.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nn_types.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/mfcc.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/DSP/Include/arm_math.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/kws_ds_cnn.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/ds_cnn.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/ds_cnn_weights.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/local_NN.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nnsupportfunctions.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nn_tables.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/cmsis_os.h \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/datalog_application.h
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/debug_log.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/all_ops_resolver.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/compatibility.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_mutable_op_resolver.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/c/common.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/error_reporter.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/schema/schema_generated.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/stl_emulation.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/compatibility.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/op_macros.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/kernels/micro_ops.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_op_resolver.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/op_resolver.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_interpreter.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/profiler.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/tensor_ctypes.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_allocator.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/simple_memory_allocator.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/type_to_tflitetype.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/testing/micro_test.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/version.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/core/public/version.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/model_weights.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/wavfile.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/main.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/stm32l4xx_hal_conf.h:
@@ -152,32 +203,24 @@ AudioLoop/User/main.o: ../AudioLoop/User/main.cpp \
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Inc/usbd_audio_in.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_audio_if.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/kws.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_cdc_interface.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/kwt.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/debug_log.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/all_ops_resolver.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/compatibility.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_mutable_op_resolver.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/c/common.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/error_reporter.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/flatbuffer_conversions.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/schema/schema_generated.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/flatbuffers.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/stl_emulation.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/compatibility.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/op_macros.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/kernels/micro_ops.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_op_resolver.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/op_resolver.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_interpreter.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/profiler.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/tensor_ctypes.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/types.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_allocator.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/simple_memory_allocator.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/type_to_tflitetype.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/version.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/core/public/version.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/nn.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nnfunctions.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nnsupportfunctions.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/DSP/Include/arm_math.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/CMSIS/Include/cmsis_compiler.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/DSP/Include/arm_common_tables.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nn_tables.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nn_types.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/mfcc.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/DSP/Include/arm_math.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/kws_ds_cnn.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/ds_cnn.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/ds_cnn_weights.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/local_NN.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nnsupportfunctions.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nn_tables.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/cmsis_os.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/datalog_application.h:

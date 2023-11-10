@@ -1,5 +1,5 @@
 AudioLoop/User/usbd_cdc_interface.o: \
- ../AudioLoop/User/usbd_cdc_interface.c \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_cdc_interface.c \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_cdc_interface.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc/usbd_cdc.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \

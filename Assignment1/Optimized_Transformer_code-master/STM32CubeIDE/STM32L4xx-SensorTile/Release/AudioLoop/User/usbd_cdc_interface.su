@@ -1,6 +1,6 @@
-../AudioLoop/User/usbd_cdc_interface.c:94:15:CDC_Itf_DeInit	0	static
-../AudioLoop/User/usbd_cdc_interface.c:108:15:CDC_Itf_Control	0	static
-../AudioLoop/User/usbd_cdc_interface.c:231:15:CDC_Itf_Receive	0	static
-../AudioLoop/User/usbd_cdc_interface.c:58:15:CDC_Itf_Init	16	static
-../AudioLoop/User/usbd_cdc_interface.c:174:9:CDC_Fill_Buffer	20	static
-../AudioLoop/User/usbd_cdc_interface.c:191:6:CDC_TIM_PeriodElapsedCallback	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_cdc_interface.c:94:15:CDC_Itf_DeInit	0	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_cdc_interface.c:108:15:CDC_Itf_Control	0	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_cdc_interface.c:231:15:CDC_Itf_Receive	0	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_cdc_interface.c:58:15:CDC_Itf_Init	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_cdc_interface.c:174:9:CDC_Fill_Buffer	20	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_cdc_interface.c:191:6:CDC_TIM_PeriodElapsedCallback	16	static

@@ -1,4 +1,5 @@
-AudioLoop/User/stm32l4xx_it.o: ../AudioLoop/User/stm32l4xx_it.c \
+AudioLoop/User/stm32l4xx_it.o: \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/stm32l4xx_it.c \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/stm32l4xx_it.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile/SensorTile_audio.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/SensorTile_conf.h \

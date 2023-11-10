@@ -1,4 +1,5 @@
-AudioLoop/User/usbd_audio_if.o: ../AudioLoop/User/usbd_audio_if.c \
+AudioLoop/User/usbd_audio_if.o: \
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/usbd_audio_if.c \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_audio_if.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO/Inc/usbd_audio_in.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \

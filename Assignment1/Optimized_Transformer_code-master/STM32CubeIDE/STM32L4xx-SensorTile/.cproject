@@ -38,11 +38,17 @@
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Inc"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/CMSIS/Device/ST/STM32L4xx/Include"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lsm6dsm"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/hts221"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lps22hb"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lsm303agr"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/pcm1774"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/DSP/Include"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/CMSIS/Include"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/STM32L4xx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/Common"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lsm6dsm"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/pcm1774"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/Core/Include"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads"/>
@@ -65,9 +71,15 @@
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Middlewares/ST/STM32_USB_Device_Library/Core/Inc"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/CMSIS/Device/ST/STM32L4xx/Include"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lsm6dsm"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/DSP/Include"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/CMSIS/Include"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/STM32L4xx_HAL_Driver/Inc"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lsm6dsm"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/hts221"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lps22hb"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lsm303agr"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/pcm1774"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/Common"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/pcm1774"/>
@@ -109,6 +121,10 @@
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/STM32L4xx_HAL_Driver/Inc"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/Common"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/SensorTile"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lsm6dsm"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/hts221"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lps22hb"/>
+									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/lsm303agr"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/pcm1774"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/Core/Include"/>
 									<listOptionValue builtIn="false" value="/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads"/>
@@ -175,7 +191,7 @@
 					</folderInfo>
 					<fileInfo id="com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.1610301047.Doc/readme.txt" name="readme.txt" rcbsApplicability="disable" resourcePath="Doc/readme.txt" toolsToInvoke=""/>
 					<sourceEntries>
-						<entry excluding="Middlewares/STM32_USB_Device_Library/usbd_audio.c|AudioLoop/User/system_stm32l4xx.c|AudioLoop/User/usbd_conf_l4.c|third_party|tensorflow|AudioLoop/User/main_noWP.cpp|AudioLoop/User/stm32l4xx_hal_msp.c|AudioLoop/User/main.c" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+						<entry excluding="AudioLoop/User/Scraching old|Middlewares/STM32_USB_Device_Library/usbd_audio.c|AudioLoop/User/system_stm32l4xx.c|AudioLoop/User/usbd_conf_l4.c|third_party|tensorflow|AudioLoop/User/main_noWP.cpp|AudioLoop/User/stm32l4xx_hal_msp.c|AudioLoop/User/main.c" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="tensorflow"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="third_party"/>
 					</sourceEntries>

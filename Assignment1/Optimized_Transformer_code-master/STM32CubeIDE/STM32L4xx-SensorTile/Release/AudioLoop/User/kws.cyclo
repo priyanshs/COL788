@@ -1,0 +1,7 @@
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/kws.cpp:26:1:KWS::KWS()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/kws.cpp:30:1:KWS::~KWS()	6
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/kws.cpp:39:6:void KWS::init_kws()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/kws.cpp:56:6:void KWS::extract_features()	3
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/kws.cpp:70:6:void KWS::classify()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/kws.cpp:77:5:int KWS::get_top_class(q7_t*)	3
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/kws.cpp:90:6:void KWS::average_predictions()	3

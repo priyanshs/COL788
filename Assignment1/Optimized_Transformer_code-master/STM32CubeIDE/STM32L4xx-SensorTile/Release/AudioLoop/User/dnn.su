@@ -1,0 +1,5 @@
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/nn.h:24:7:NN::NN()	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/dnn.cpp:50:1:DNN::DNN()	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/dnn.cpp:65:1:DNN::~DNN()	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/dnn.cpp:65:1:virtual DNN::~DNN()	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/dnn.cpp:70:6:virtual void DNN::run_nn(q7_t*, q7_t*)	48	static

@@ -78,6 +78,101 @@
 			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
+			<name>AudioLoop/User/Scraching old</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/arm_avepool_q7_HWC_nonsquare.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/arm_avepool_q7_HWC_nonsquare.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/dnn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/dnn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/ds_cnn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/ds_cnn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/kws.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/kws.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/kws_dnn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/kws_dnn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/kws_ds_cnn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/kws_ds_cnn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/main.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/main.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/mfcc.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/mfcc.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/nn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/nn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/stm32l4xx_hal_msp.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/stm32l4xx_hal_msp.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/stm32l4xx_it.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/stm32l4xx_it.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/syscalls.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/syscalls.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/system_stm32l4xx.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/system_stm32l4xx.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/usbd_audio_if.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_audio_if.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/usbd_cdc_if.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_cdc_if.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/usbd_cdc_interface.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_cdc_interface.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/usbd_conf_l4.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_conf_l4.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/usbd_desc.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/usbd_desc.c</locationURI>
+		</link>
+		<link>
 			<name>Drivers/BSP/Components</name>
 			<type>2</type>
 			<locationURI>virtual:/virtual</locationURI>
@@ -208,6 +303,71 @@
 			<locationURI>PARENT-2-PROJECT_LOC/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c</locationURI>
 		</link>
 		<link>
+			<name>AudioLoop/User/Scraching old/arm_avepool_q7_HWC_nonsquare.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/arm_avepool_q7_HWC_nonsquare.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/cube_hal_l4.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/cube_hal_l4.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/dnn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/dnn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/ds_cnn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/ds_cnn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/kws.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/kws.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/kws_dnn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/kws_dnn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/kws_ds_cnn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/kws_ds_cnn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/kws_f746ng.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/kws_f746ng.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/main.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/main.c</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/main_noWP.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/main_noWP.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/mfcc.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/mfcc.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/nn.cpp</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/nn.cpp</locationURI>
+		</link>
+		<link>
+			<name>AudioLoop/User/Scraching old/stm32l4xx_hal_msp.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Src/Scraching%20old/stm32l4xx_hal_msp.c</locationURI>
+		</link>
+		<link>
 			<name>Drivers/BSP/Components/Common</name>
 			<type>2</type>
 			<locationURI>virtual:/virtual</locationURI>
@@ -221,6 +381,16 @@
 			<name>Drivers/BSP/Components/PCM1774_reg.c</name>
 			<type>1</type>
 			<location>/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/BSP/Components/pcm1774/PCM1774_reg.c</location>
+		</link>
+		<link>
+			<name>Drivers/BSP/Components/lsm6dsm.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Drivers/BSP/Components/lsm6dsm/lsm6dsm.c</locationURI>
+		</link>
+		<link>
+			<name>Drivers/BSP/Components/lsm6dsm_reg.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Drivers/BSP/Components/lsm6dsm/lsm6dsm_reg.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/BSP/SensorTile/SensorTile.c</name>

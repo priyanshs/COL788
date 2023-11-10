@@ -1,0 +1,8 @@
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/nn.cpp:21:1:NN::~NN()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/nn.cpp:21:1:virtual NN::~NN()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/nn.cpp:24:5:int NN::get_frame_len()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/nn.cpp:28:5:int NN::get_frame_shift()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/nn.cpp:32:5:int NN::get_num_mfcc_features()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/nn.cpp:36:5:int NN::get_num_frames()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/nn.cpp:40:5:int NN::get_num_out_classes()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/nn.cpp:44:5:int NN::get_in_dec_bits()	1

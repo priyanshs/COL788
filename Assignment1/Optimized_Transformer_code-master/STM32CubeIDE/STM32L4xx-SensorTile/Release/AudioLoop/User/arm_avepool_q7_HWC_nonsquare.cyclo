@@ -1,0 +1,1 @@
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/arm_avepool_q7_HWC_nonsquare.cpp:5:6:void arm_avepool_q7_HWC_nonsquare(const q7_t*, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, q7_t*, q7_t*, uint16_t)	10
