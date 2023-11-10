@@ -1,6 +1,6 @@
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:48:3:tflite::MemoryPlanner::MemoryPlanner()	16	static
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:49:11:tflite::MemoryPlanner::~MemoryPlanner()	16	static
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:49:11:virtual tflite::MemoryPlanner::~MemoryPlanner()	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:48:3:tflite::MemoryPlanner::MemoryPlanner()	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:49:11:tflite::MemoryPlanner::~MemoryPlanner()	16	static
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:49:11:virtual tflite::MemoryPlanner::~MemoryPlanner()	16	static
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/linear_memory_planner.cc:20:1:tflite::LinearMemoryPlanner::LinearMemoryPlanner()	16	static
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/linear_memory_planner.cc:22:1:tflite::LinearMemoryPlanner::~LinearMemoryPlanner()	16	static
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/linear_memory_planner.cc:22:1:virtual tflite::LinearMemoryPlanner::~LinearMemoryPlanner()	16	static

@@ -1,7 +1,7 @@
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:48:3:tflite::MemoryPlanner::MemoryPlanner()	1
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:49:11:tflite::MemoryPlanner::~MemoryPlanner()	1
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:49:11:virtual tflite::MemoryPlanner::~MemoryPlanner()	1
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/greedy_memory_planner.h:98:17:static size_t tflite::GreedyMemoryPlanner::per_buffer_size()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:48:3:tflite::MemoryPlanner::MemoryPlanner()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:49:11:tflite::MemoryPlanner::~MemoryPlanner()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/memory_planner.h:49:11:virtual tflite::MemoryPlanner::~MemoryPlanner()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/greedy_memory_planner.h:98:17:static size_t tflite::GreedyMemoryPlanner::per_buffer_size()	1
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cc:23:6:void tflite::ReverseSortInPlace(int*, int*, int)	4
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cc:41:1:tflite::GreedyMemoryPlanner::GreedyMemoryPlanner(unsigned char*, int)	1
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/memory_planner/greedy_memory_planner.cc:63:1:tflite::GreedyMemoryPlanner::~GreedyMemoryPlanner()	1

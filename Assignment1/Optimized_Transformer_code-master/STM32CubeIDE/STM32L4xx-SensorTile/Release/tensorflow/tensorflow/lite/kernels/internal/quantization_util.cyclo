@@ -24,5 +24,5 @@
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/quantization_util.cc:357:6:void tflite::FakeQuantizeArray(float, float, float, const float*, float*, float)	2
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/quantization_util.cc:374:6:bool tflite::CheckedLog2(float, int*)	1
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/quantization_util.cc:386:6:void tflite::QuantizeMultiplierArray(const double*, size_t, int32_t*, int*)	2
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/cppmath.h:36:1:T tflite::TfLiteRound(T) [with T = double]	1
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/cppmath.h:36:1:T tflite::TfLiteRound(T) [with T = float]	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/cppmath.h:36:1:T tflite::TfLiteRound(T) [with T = double]	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/kernels/internal/cppmath.h:36:1:T tflite::TfLiteRound(T) [with T = float]	1

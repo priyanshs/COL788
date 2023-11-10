@@ -100,7 +100,7 @@ main-build: STSW-STLKT01-AudioLoop.elf secondary-outputs
 
 # Tool invocations
 STSW-STLKT01-AudioLoop.elf STSW-STLKT01-AudioLoop.map: $(OBJS) $(USER_OBJS) ../LinkerScript.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-g++ -o "STSW-STLKT01-AudioLoop.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"../LinkerScript.ld" --specs=nosys.specs -Wl,-Map="STSW-STLKT01-AudioLoop.map" -Wl,--gc-sections -static -L/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/CMSIS/Lib/GCC --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+	arm-none-eabi-g++ -o "STSW-STLKT01-AudioLoop.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"../LinkerScript.ld" --specs=nosys.specs -Wl,-Map="STSW-STLKT01-AudioLoop.map" -Wl,--gc-sections -static -L/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Drivers/CMSIS/Lib/GCC --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

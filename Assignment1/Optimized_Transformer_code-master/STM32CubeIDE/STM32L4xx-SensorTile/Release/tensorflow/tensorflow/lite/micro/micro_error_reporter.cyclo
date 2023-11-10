@@ -1,5 +1,5 @@
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/error_reporter.h:37:11:tflite::ErrorReporter::~ErrorReporter()	1
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/error_reporter.h:37:11:virtual tflite::ErrorReporter::~ErrorReporter()	1
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h:27:3:tflite::MicroErrorReporter::~MicroErrorReporter()	1
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h:27:3:virtual tflite::MicroErrorReporter::~MicroErrorReporter()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/error_reporter.h:37:11:tflite::ErrorReporter::~ErrorReporter()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/core/api/error_reporter.h:37:11:virtual tflite::ErrorReporter::~ErrorReporter()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h:27:3:tflite::MicroErrorReporter::~MicroErrorReporter()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h:27:3:virtual tflite::MicroErrorReporter::~MicroErrorReporter()	1
 /home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.cc:27:5:virtual int tflite::MicroErrorReporter::Report(const char*, va_list)	1
