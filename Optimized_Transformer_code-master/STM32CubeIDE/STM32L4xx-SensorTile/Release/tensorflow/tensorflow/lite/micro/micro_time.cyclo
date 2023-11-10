@@ -1,2 +1,0 @@
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_time.cc:36:9:int32_t tflite::ticks_per_second()	1
-/home/dell/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_time.cc:42:9:int32_t tflite::GetCurrentTimeTicks()	1

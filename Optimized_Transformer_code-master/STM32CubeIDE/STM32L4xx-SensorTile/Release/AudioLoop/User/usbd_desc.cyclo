@@ -1,8 +1,0 @@
-../AudioLoop/User/usbd_desc.c:97:10:USBD_VCP_DeviceDescriptor	1
-../AudioLoop/User/usbd_desc.c:109:10:USBD_VCP_LangIDStrDescriptor	1
-../AudioLoop/User/usbd_desc.c:208:13:IntToUnicode	3
-../AudioLoop/User/usbd_desc.c:145:10:USBD_VCP_SerialStrDescriptor	2
-../AudioLoop/User/usbd_desc.c:121:10:USBD_VCP_ProductStrDescriptor	1
-../AudioLoop/User/usbd_desc.c:133:10:USBD_VCP_ManufacturerStrDescriptor	1
-../AudioLoop/User/usbd_desc.c:161:10:USBD_VCP_ConfigStrDescriptor	1
-../AudioLoop/User/usbd_desc.c:173:10:USBD_VCP_InterfaceStrDescriptor	1

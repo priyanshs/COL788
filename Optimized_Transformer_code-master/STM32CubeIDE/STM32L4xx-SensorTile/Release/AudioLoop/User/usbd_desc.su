@@ -1,8 +1,0 @@
-../AudioLoop/User/usbd_desc.c:97:10:USBD_VCP_DeviceDescriptor	0	static
-../AudioLoop/User/usbd_desc.c:109:10:USBD_VCP_LangIDStrDescriptor	0	static
-../AudioLoop/User/usbd_desc.c:208:13:IntToUnicode	16	static
-../AudioLoop/User/usbd_desc.c:145:10:USBD_VCP_SerialStrDescriptor	8	static
-../AudioLoop/User/usbd_desc.c:121:10:USBD_VCP_ProductStrDescriptor	8	static
-../AudioLoop/User/usbd_desc.c:133:10:USBD_VCP_ManufacturerStrDescriptor	8	static
-../AudioLoop/User/usbd_desc.c:161:10:USBD_VCP_ConfigStrDescriptor	8	static
-../AudioLoop/User/usbd_desc.c:173:10:USBD_VCP_InterfaceStrDescriptor	8	static
