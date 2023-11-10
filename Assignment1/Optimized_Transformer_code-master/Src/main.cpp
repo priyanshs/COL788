@@ -29,9 +29,9 @@ typedef enum
   
 osThreadId GetDataThreadId, WriteDataThreadId;
 
-osMessageQId dataQueue_id;
-osMessageQDef(dataqueue, DATAQUEUE_SIZE, int);
 
+osPoolId sensorPool_id;
+osPoolDef(sensorPool, DATAQUEUE_SIZE, char[5]);
 /* LoggingInterface = USB_Datalog  --> Send sensors data via USB */
 /* LoggingInterface = SDCARD_Datalog  --> Save sensors data on SDCard (enable with double tap) */
 LogInterface_TypeDef LoggingInterface = USB_Datalog;
@@ -39,8 +39,7 @@ LogInterface_TypeDef LoggingInterface = USB_Datalog;
 USBD_HandleTypeDef  USBD_Device;
 
 /* Private function prototypes -----------------------------------------------*/
-static void GetData_Thread(void const *argument);
-static void WriteData_Thread(void const *argument);
+static void WriteData_Thread(char * argument);
 
 void dataTimer_Callback(void const *arg);
 void dataTimerStart(void);
@@ -75,7 +74,7 @@ TF_LITE_MICRO_TESTS_BEGIN
 TF_LITE_MICRO_TEST(LoadModelAndPerformInference) {
 	KWS_DS_CNN kws = extract_mfcc_from_static_audio(audio_buffer);
 	q7_t * m_buff = kws.mfcc_buffer;
-
+// TODO: This should also be removed once confirmed.
 
 	tflite::MicroErrorReporter micro_error_reporter;
 	tflite::ErrorReporter* error_reporter = &micro_error_reporter;
@@ -356,6 +355,35 @@ void Error_Handler( void )
 //    __WFI();
 //  }
 //}
+
+
+/**
+  * @brief  Write data in the queue on file or streaming via USB
+  * @param  argument not used
+  * @retval None
+  */
+static void WriteData_Thread(char* argument)
+{
+  int size;
+  char data_s[5];
+
+  for (;;)
+  {
+      // TODO : WHILE WRITING THIS SHOULD THIS BE IN A INF LOOP??
+      // TODO : WHAT IS THE ARGUMENT HERE??
+      // TODO : CAN IT JUST BE A SINGLE CALL?
+      
+
+          size = sprintf(data_s, argument);
+          osPoolFree(sensorPool_id, argument);      // free memory allocated for message
+          BSP_LED_Toggle(LED1);
+          CDC_Fill_Buffer(( uint8_t * )data_s, size);
+        
+        
+      
+    
+  }
+}
 
 
 #ifdef  USE_FULL_ASSERT

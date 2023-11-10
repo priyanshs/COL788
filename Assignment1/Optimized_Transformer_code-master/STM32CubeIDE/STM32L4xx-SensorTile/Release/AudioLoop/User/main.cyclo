@@ -14,12 +14,13 @@
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_op_resolver.h:68:3:virtual tflite::MicroOpResolver::~MicroOpResolver()	1
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h:27:3:tflite::MicroErrorReporter::~MicroErrorReporter()	1
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/micro_error_reporter.h:27:3:virtual tflite::MicroErrorReporter::~MicroErrorReporter()	1
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:58:12:KWS_DS_CNN extract_mfcc_from_static_audio(int16_t*)	1
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:65:6:void DebugLog(const char*)	1
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:90:43:void __tcf_0()	1
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:73:1:int main(int, char**)	9
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:331:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	2
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:344:6:void Error_Handler()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:57:12:KWS_DS_CNN extract_mfcc_from_static_audio(int16_t*)	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:64:6:void DebugLog(const char*)	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:89:43:void __tcf_0()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:72:1:int main(int, char**)	9
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:330:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	2
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:343:6:void Error_Handler()	1
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Src/main.cpp:365:13:void WriteData_Thread(char*)	1
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:362:24:T flatbuffers::EndianScalar(T) [with T = long unsigned int]	1
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:373:3:T flatbuffers::ReadScalar(const void*) [with T = short unsigned int]	1
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/third_party/flatbuffers/include/flatbuffers/base.h:373:3:T flatbuffers::ReadScalar(const void*) [with T = long unsigned int]	1
