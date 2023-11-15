@@ -110,8 +110,7 @@ AudioLoop/User/main.o: \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/local_NN.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nnsupportfunctions.h \
  /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nn_tables.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/cmsis_os.h \
- /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/datalog_application.h
+ /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_cdc_if.h
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/debug_log.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/all_ops_resolver.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/compatibility.h:
@@ -222,5 +221,4 @@ AudioLoop/User/main.o: \
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/local_NN.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nnsupportfunctions.h:
 /home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/tensorflow/tensorflow/lite/micro/tools/make/downloads/cmsis/CMSIS/NN/Include/arm_nn_tables.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/cmsis_os.h:
-/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/datalog_application.h:
+/home/dell/COL788/COL788/Assignment1/Optimized_Transformer_code-master/Inc/usbd_cdc_if.h:
